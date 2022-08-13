@@ -1,0 +1,6 @@
+babel==2.9.0
+python-dateutil==2.6.0
+flask-moment==1.0.4
+Flask-SQLAlchemy==2.5.1
+Flask-WTF==1.0.1
+MarkupSafe==2.1.1
